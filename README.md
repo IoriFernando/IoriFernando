@@ -39,22 +39,6 @@ Analista de dados junior<br>
 </div>
 
 
-### Contatos
-<div style="text-align: left; display: flex; align-items: center;">
-  <img alt="LinkedIn" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" style="margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/seu-perfil">
-  <span style="font-size: 18px; margin-right: 18px;">Iori Fernando</span>
-  </a>
-
-  <img alt="Gmail" height="25" width="25" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" style="margin-right: 10px;">
-  <a href="mailto:iori.fcr@gmail.com">
-  <span style="font-size: 18px;">iori.fcr@gmail.com</span>
-  </a>
-
-
-  </a>
-  
-</div>
 
 <br>
 
