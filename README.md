@@ -5,15 +5,6 @@ Desenvolvedor java junior,
 Analista de dados junior, Desenvolvedor de Sistemas Embarcados
 
 
-### Competências
-
-- **Programação para Sistemas Embarcados:** Desenvolvimento de firmware e software otimizado para microcontroladores (Arduino, ESP32) e sistemas embarcados (Raspberry Pi).
-- **Controle e Automação:** Desenvolvimento de algoritmos para controle de motores e sensores em robótica.
-- **Análise de Dados Avançada:** Criação de dashboards, modelagem preditiva e análise de grandes volumes de dados utilizando SQL, Python, e Power BI.
-- **Desenvolvimento de Aplicações Java:** Criação de APIs RESTful, integração com bancos de dados e desenvolvimento de sistemas Java orientados a objetos.
-- **Eletrônica Aplicada:** Design e implementação de sistemas de potência, circuitos e controle para projetos de automação e robótica.
-
-
 ### Tecnologias e Ferramentas:
 <div style="text-align: center;">
   <img alt="Java" height="50" width="50" src="https://www.svgrepo.com/show/184143/java.svg">
