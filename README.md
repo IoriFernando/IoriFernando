@@ -36,4 +36,4 @@
 ## 📫 Contato  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iori-fernando)  
-- 📧 **iori@gmail.com**  
+- 📧 **iori.fcr@gmail.com**  
