@@ -1,39 +1,34 @@
-# 👋 Olá, eu sou o Iori Fernando  
+# 👋 Olá, eu sou o Iori Fernando
 
-🎓 **Engenheiro da Computação**  
-💻 **Desenvolvedor Java Junior** | 📊 **Analista de Dados Junior** | 🔧 **Sistemas Embarcados**  
+🎓 Engenheiro da Computação, com interesse em desenvolvimento de software e sistemas embarcados.  
+💻 Experiência acadêmica e prática com Java, Python e C/C++, atuando em projetos de análise de dados e integração entre software e hardware.  
+📊 Foco em soluções eficientes, código organizado e aplicação de boas práticas de engenharia de software.
 
----
 
-## 🚀 Habilidades Técnicas  
+## 🚀 Habilidades Técnicas
 
-**Linguagens:** Java, C, C++, Python  
-**Bancos de Dados:** SQL  
-**Ferramentas:** Arduino, Raspberry Pi, Excel  
-**Áreas:** Sistemas Embarcados, Análise de Dados  
+**Linguagens de Programação**  
+Java • Python • C • C++
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
- <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
- <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
- <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img alt="Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
- <img alt="Raspberry Pi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
- <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+**Análise de Dados**  
+Python (Pandas, NumPy) • SQL • Excel • Visualização de dados
 
----
+**Sistemas Embarcados**  
+Arduino • ESP32 • Raspberry Pi
 
-## 📊 GitHub Stats  
+**Outros Conhecimentos**  
+Scrum • Metodologias Ágeis • Fundamentos de Engenharia de Software • Figma
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IoriFernando&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriFernando&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
----
+## 🧠 Projetos em Destaque
 
-## 📫 Contato  
+📌 **Projetos com Sistemas Embarcados**  
+- Desenvolvimento de sistemas para leitura de sensores (nível, temperatura e velocidade)  
+- Comunicação de dados via ESP32 utilizando servidor web (WiFi e HTTP)    
+- Integração com displays LCD 16x2 via I2C
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/iori-fernando)  
-- 📧 **iori.fcr@gmail.com**  
+## 📫 Contato
+💼 LinkedIn: https://www.linkedin.com/in/iorifernando  
+📧 Email: iori.fcr@gmail.com
+
+
