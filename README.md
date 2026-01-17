@@ -1,34 +1,44 @@
-# 👋 Olá, eu sou o Iori Fernando
+# 👋 Iori Fernando
 
-🎓 Engenheiro da Computação, com interesse em desenvolvimento de software e sistemas embarcados.  
-💻 Experiência acadêmica e prática com Java, Python e C/C++, atuando em projetos de análise de dados e integração entre software e hardware.  
-📊 Foco em soluções eficientes, código organizado e aplicação de boas práticas de engenharia de software.
+🎓 Engenheiro da Computação | Técnico em Eletrotécnica <br>
+💻 Java • Python • C/C++ | Sistemas Embarcados • Análise de Dados • Automação 
 
 
 ## 🚀 Habilidades Técnicas
 
-**Linguagens de Programação**  
-Java • Python • C • C++
+**Linguagens de Programação e Ferramentas** 
 
-**Análise de Dados**  
-Python (Pandas, NumPy) • SQL • Excel • Visualização de dados
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width="45"/>
+<img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="48"/>
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width= 48>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014" width= 48>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" width= 48>
+</p>
 
 **Sistemas Embarcados**  
-Arduino • ESP32 • Raspberry Pi
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width= 60>
+<img src="https://freesvg.org/img/1643312787esp32.png" width= 70>
+<img src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo-1.png" width= 60>
+</p>
 
 **Outros Conhecimentos**  
 Scrum • Metodologias Ágeis • Fundamentos de Engenharia de Software • Figma
 
+# 📫 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/iorifernando" target="_blank">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="48"/>
+  </a>
+  <a href="mailto:iori.fcr@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="60"/>
+  </a>
+</p>
 
-## 🧠 Projetos em Destaque
 
-📌 **Projetos com Sistemas Embarcados**  
-- Desenvolvimento de sistemas para leitura de sensores (nível, temperatura e velocidade)  
-- Comunicação de dados via ESP32 utilizando servidor web (WiFi e HTTP)    
-- Integração com displays LCD 16x2 via I2C
 
-## 📫 Contato
-💼 LinkedIn: https://www.linkedin.com/in/iorifernando  
-📧 Email: iori.fcr@gmail.com
 
 
