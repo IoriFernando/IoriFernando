@@ -1,12 +1,5 @@
-<h1>
-  👋 Iori Fernando
-  <a href="https://www.linkedin.com/in/iorifernando" target="_blank" style="margin-left: 12px;">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" style="vertical-align: middle;" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iori.fcr@gmail.com" style="margin-left: 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" style="vertical-align: middle;" alt="Email" />
-  </a>
-</h1>
+
+# 👋 Iori Fernando
 
 <p>
   <strong>🎓 Engenheiro da Computação | Técnico em Eletrotécnica</strong><br>
