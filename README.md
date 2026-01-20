@@ -1,8 +1,17 @@
-# 👋 Iori Fernando
+<h1>
+  👋 Iori Fernando
+  <a href="https://www.linkedin.com/in/iorifernando" target="_blank" style="margin-left: 12px;">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="40" style="vertical-align: middle;" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iori.fcr@gmail.com" style="margin-left: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" style="vertical-align: middle;" alt="Email" />
+  </a>
+</h1>
 
-🎓 Engenheiro da Computação | Técnico em Eletrotécnica <br>
-💻 Java • Python • C/C++ | Sistemas Embarcados • Análise de Dados • Automação 
-
+<p>
+  <strong>🎓 Engenheiro da Computação | Técnico em Eletrotécnica</strong><br>
+  💻 Java • Python • C/C++ | Sistemas Embarcados • Análise de Dados • Automação
+</p>
 
 ## 🚀 Habilidades Técnicas
 
@@ -21,15 +30,7 @@
 <img src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo-1.png" width= 50/>
 </p>
 
-# 📫 Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/iorifernando" target="_blank">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="48"/>
-  </a>
-  <a href="mailto:iori.fcr@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="60"/>
-  </a>
-</p>
+
 
 
 
