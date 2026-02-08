@@ -8,8 +8,6 @@
 
 ## 🚀 Habilidades Técnicas
 
-**Linguagens de Programação e Ferramentas** 
-
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width="45"/>
 <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" width="60"/>
